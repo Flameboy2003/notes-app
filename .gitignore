@@ -1,0 +1,18 @@
+# Node (Frontend)
+node_modules/
+dist/
+.nuxt/
+
+# Java (Backend)
+target/
+*.class
+
+# Env files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
